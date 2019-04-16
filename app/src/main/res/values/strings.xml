@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P01-DailyGoals</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="arrive_on_time_so_as_not_to_miss_important_part_of_the_lesson">Arrive on time so as not to miss important part of the lesson</string>
+    <string name="did_i_achieve_this_goal_today">Did I achieve this goal today</string>
+    <string name="attempt_the_problem_myself">Attempt the problem myself</string>
+    <string name="read_up_on_materials_before_class">Read up on materials before class</string>
+    <string name="my_personal_reflection_today">My personal reflection today</string>
+    <string name="ok">OK</string>
+    <string name="hello_world">Hello World</string>
+    <string name="btnBack">Back</string>
+</resources>
